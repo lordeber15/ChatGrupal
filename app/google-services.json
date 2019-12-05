@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "241854997883",
+    "firebase_url": "https://registrocloud-bdd0e.firebaseio.com",
+    "project_id": "registrocloud-bdd0e",
+    "storage_bucket": "registrocloud-bdd0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241854997883:android:deb206bd8ca6fa8a",
+        "android_client_info": {
+          "package_name": "app.chat.registrocloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241854997883-eb5322k98balg4f9qne38h5vks8stkrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.chat.registrocloud",
+            "certificate_hash": "ced528745f9ecce4a49eb906cb3a94a9588202e1"
+          }
+        },
+        {
+          "client_id": "241854997883-utsa7ubu60pamogo2b4vs0o2p3li8o46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD421KI1bi7qswTcmZofwrT5V9tdm-P_JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241854997883-utsa7ubu60pamogo2b4vs0o2p3li8o46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
